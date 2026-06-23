@@ -1,10 +1,15 @@
 # Hamilton Tree Canopy Climate Analytics
 
-<img width="975" height="671" alt="HEAD compettion Dashboard" src="https://github.com/user-attachments/assets/a849925d-3a21-4a20-bcdc-9454ac6340fb" />
 🏆 1st Place – Dashboard Category
+
 🏅 5th Place Overall
 
 HEAD Data Analytics Competition
+
+<img width="975" height="671" alt="HEAD compettion Dashboard" src="https://github.com/user-attachments/assets/a849925d-3a21-4a20-bcdc-9454ac6340fb" />
+
+<img width="982" height="652" alt="HEAD Compettion Dashboard phase 2" src="https://github.com/user-attachments/assets/2ea6abd7-634a-404a-a340-1fce03db7274" />
+
 
 ## Project Overview
 
