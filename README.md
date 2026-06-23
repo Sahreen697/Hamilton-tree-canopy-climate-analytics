@@ -41,4 +41,6 @@ Urban trees provide important environmental benefits, including carbon sequestra
 🏅 5th Place Overall
 
 HEAD Data Analytics Competition
+## Competition Achievement
 
+This project won 1st Place in the Dashboard Category and ranked 5th Overall in the HEAD Data Analytics Competition. The project analyzed Hamilton's urban tree canopy using environmental, geographic, and socioeconomic data to evaluate climate resilience and environmental equity across city wards.
